@@ -1,0 +1,6 @@
+name = "proguides-coach-auth"
+main = "src/index.js"
+compatibility_date = "2023-06-22"
+
+[vars]
+discordClientID = "1119532726744256532"
